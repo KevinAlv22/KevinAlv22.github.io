@@ -16,7 +16,7 @@ Professor Susan Rodger is the Director of Undergraduate Studies in the Departmen
 
 ## About My Project
 
-My research project this summer is focused on developing autograders for open-ended assignments in an introductory coding Coursera course. These autograders are written in python using the testing framework, pytest. We are performing literature review on open-ended assignments and autograders to see current designs and perspectives. However, it's evident that there isn't much work on autograders for open-ended assignments, meaning that there are some areas for innovation. In order to aid this research process, I am also part of an introductory research course, UR2PhD, to gain a better grasp on research skills. 
+My research project this summer is focused on developing autograders for open-ended assignments in an introductory coding Coursera course. These autograders are written in python using the testing framework, pytest. We are performing literature review on open-ended assignments and autograders to see current designs and perspectives. However, it's evident that there isn't much work on autograders for open-ended assignments, meaning that there are some areas for innovation. The main goal of this research project is to develop autograders that can allow for students to be creative in their learning. Open-ended assignments give students the chance to test their knowledge in ways that best suit them, which is shown, from our literature review, to be beneficial to their learning. In order to aid this research process, I am also part of an introductory research course, UR2PhD, to gain a better grasp on research skills. 
 
 [My Final Report](files/finalreport.pdf)
 
