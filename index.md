@@ -14,7 +14,7 @@ Please reach out to me at my email: kalvarenga3088@gmail.com or on [Linkedin](ht
 
 ## About My Mentor
 
-Professor Susan Rodger is the Director of Undergraduate Studies in the Department of Computer Science and Professor of the Practice of Computer Science at Duke University. 
+[Professor Susan Rodger](https://scholars.duke.edu/person/rodger) is the Director of Undergraduate Studies in the Department of Computer Science and Professor of the Practice of Computer Science at Duke University. Her main area of research is Computer Science Education, where she has worked on visualization and interaction software for theoretical applications. Professor Rodger has developed JFLAPS, a software that experiments with formal languages and automata for 30 years with 48 students. This is one her more popular works as it is being used in over 160 countries. Also, Rodger has focused on integrating computing into K-12 by using Alice 3-D virtual worlds and has helped developed curriculum materials. 
 
 ## About My Project
 
