@@ -8,7 +8,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Just testing to see if this is the right spot to change. 
 
 ## About My Mentor
 
